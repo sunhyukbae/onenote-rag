@@ -39,6 +39,7 @@ app.py              ← Streamlit 웹 UI
 
 | 단계 | 내용 | 링크 |
 |------|------|------|
+| ⚡ | 빠른 시작 (Quick Start) | [00_quickstart.md](docs/00_quickstart.md) |
 | 0 | 사전 준비 (설치 목록) | [prerequisites.md](docs/01_prerequisites.md) |
 | 1 | Microsoft Graph API 설정 (Azure) | [azure_setup.md](docs/02_azure_setup.md) |
 | 2 | Gemini API 키 발급 | [gemini_setup.md](docs/03_gemini_setup.md) |
