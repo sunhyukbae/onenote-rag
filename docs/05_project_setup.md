@@ -8,6 +8,9 @@ cd onenote-rag
 code .
 ```
 
+또는 finder에서 onenote-rag 폴더 생성 후
+VS code에서 `open folder...`로 해당 폴더 열기
+
 ---
 
 ## Python 가상환경 생성
