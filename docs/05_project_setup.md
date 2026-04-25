@@ -2,6 +2,9 @@
 
 ## 프로젝트 폴더 생성
 
+
+`git clone https://github.com/sunhyukbae/onenote-rag.git`을 실행했다면 `onenote-rag` 폴더가 저절로 생성이 되어 있으므로 다음 단계로 이동
+
 ```bash
 mkdir onenote-rag
 cd onenote-rag
