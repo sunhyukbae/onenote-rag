@@ -1,6 +1,6 @@
 # 5단계: Claude Code로 코딩
 
-> VS Code 내 Claude Code 채팅창에 아래 프롬프트들을 순서대로 입력한다.
+> VS Code 내 Claude Code 채팅창에 아래 프롬프트들을 순서대로 입력한다. 반드시 STEP 순서대로 입력하고, 이전 STEP이 완료된 후 다음 STEP을 입력한다.
 
 ---
 
