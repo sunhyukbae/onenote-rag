@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(del \"c:\\\\Users\\\\sunhy\\\\Documents\\\\onenote-rag\\\\embedder.py\")"
-    ]
-  }
-}

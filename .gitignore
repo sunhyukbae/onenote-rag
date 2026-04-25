@@ -29,3 +29,5 @@ data/
 
 token_cache.json
 sync_state.json
+
+.claude/
